@@ -1,0 +1,11 @@
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\bin\Debug\netcoreapp2.0\WebPagesApplication5.deps.json
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\bin\Debug\netcoreapp2.0\WebPagesApplication5.runtimeconfig.json
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\bin\Debug\netcoreapp2.0\WebPagesApplication5.runtimeconfig.dev.json
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\bin\Debug\netcoreapp2.0\WebPagesApplication5.dll
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\bin\Debug\netcoreapp2.0\WebPagesApplication5.pdb
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\obj\Debug\netcoreapp2.0\WebPagesApplication5.csprojResolveAssemblyReference.cache
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\obj\Debug\netcoreapp2.0\WebPagesApplication5.csproj.CoreCompileInputs.cache
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\obj\Debug\netcoreapp2.0\WebPagesApplication5.AssemblyInfoInputs.cache
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\obj\Debug\netcoreapp2.0\WebPagesApplication5.AssemblyInfo.cs
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\obj\Debug\netcoreapp2.0\WebPagesApplication5.dll
+D:\Temp\Labs\dotNetCore20\WebPagesApplication5\WebPagesApplication5\obj\Debug\netcoreapp2.0\WebPagesApplication5.pdb
